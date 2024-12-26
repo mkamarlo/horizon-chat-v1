@@ -1,1 +1,26 @@
-eyJuYW1lIjoiaG9yaXpvbi1jaGF0LXYxIiwidmVyc2lvbiI6IjAuMS4wIiwicHJpdmF0ZSI6dHJ1ZSwic2NyaXB0cyI6eyJkZXYiOiJuZXh0IGRldiIsImJ1aWxkIjoibmV4dCBidWlsZCIsInN0YXJ0IjoibmV4dCBzdGFydCIsImxpbnQiOiJuZXh0IGxpbnQifSwiZGVwZW5kZW5jaWVzIjp7Im5leHQiOiIxNC4wLjQiLCJyZWFjdCI6Il4xOC4yLjAiLCJyZWFjdC1kb20iOiJeMTguMi4wIiwibHVjaWRlLXJlYWN0IjoiXjAuMjYzLjEiLCJ0YWlsd2luZGNzcyI6Il4zLjQuMCIsImF1dG9wcmVmaXhlciI6Il4xMC40LjE2IiwicG9zdGNzcyI6Il44LjQuMzIifSwiZGV2RGVwZW5kZW5jaWVzIjp7InR5cGVzY3JpcHQiOiJeNS4zLjMiLCJAdHlwZXMvbm9kZSI6Il4yMC4xMC42IiwiQHR5cGVzL3JlYWN0IjoiXjE4LjIuNDYiLCJlc2xpbnQiOiJeOC41Ni4wIn19
+{
+  "name": "horizon-chat-v1",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "next": "14.0.4",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "lucide-react": "^0.263.1",
+    "tailwindcss": "^3.4.0",
+    "autoprefixer": "^10.4.16",
+    "postcss": "^8.4.32"
+  },
+  "devDependencies": {
+    "typescript": "^5.3.3",
+    "@types/node": "^20.10.6",
+    "@types/react": "^18.2.46",
+    "eslint": "^8.56.0"
+  }
+}
